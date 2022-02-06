@@ -1,2 +1,2 @@
 # projetinhos
-Aqui contém todos os projetos que iniciei :)
+Aqui contém todos os projetos que iniciei em Python :)
